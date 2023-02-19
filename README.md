@@ -1,11 +1,11 @@
 # VideoDownloader
-Instagram Section
+Instagram Section📷
 
 ![alt text](Instagram.png)
 
 
 
 
-Youtube Section
+Youtube Section🎥
 
 ![alt text](Youtube.png)
